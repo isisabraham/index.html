@@ -16,19 +16,31 @@ Email Marketing
 <table width="599" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="images/img1.jpg" alt="" width="600" height="80" /></a></td>
+<td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_06.gif" alt="" width="600" height="43" /></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="images/img6.jpg" alt="" width="600" height="43" /></a></td>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_07.gif" alt="" width="600" height="1150" /></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="images/img7.png" alt="" width="600" height="925" /></a></td>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_08.gif" alt="" width="600" height="43" /></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="images/img8.png" alt="" width="600" height="510" /></a></td>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_09.gif" alt="" width="600" height="114" /></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.bagaggio.com.br/nossas-lojas"><img src="images/img9.png" alt="" width="600" height="510" /></a></td>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_10.gif" alt="" width="299" height="396" /><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_11.gif" alt="" width="301" height="396" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_12.gif" alt="" width="600" height="114" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_13.gif" alt="" width="297" height="397" /><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_14.gif" alt="" width="303" height="397" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_15.gif" alt="" width="600" height="114" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_17.gif" alt="" width="303" height="428" /><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/11600282-cef0-49b8-976c-245633685f8f/bagaggio/BGO202714-E-MKT-Dia-das-Crian%C3%A7as_16.gif" alt="" width="297" height="428" /></td>
 </tr>
 </tbody>
 </table>
