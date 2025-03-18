@@ -81,7 +81,7 @@ Email Marketing
 <tbody>
 <tr>
 <td style="text-align: center; color: #808080; font-size: 9px;">
-<p>Texto Legal *Os descontos s&atilde;o v&aacute;lidos em produtos selecionados e enquanto durarem os estoques e n&atilde;o cumulativa com outras promo&ccedil;&otilde;es. Para mais informa&ccedil;&otilde;es leia o regulamento. Promo&ccedil;&atilde;o sujeita a altera&ccedil;&otilde;es sem aviso pr&eacute;vio. Pre&ccedil;os e condi&ccedil;&otilde;es v&aacute;lidos somente para compra por meio desta mensagem. As condi&ccedil;&otilde;es de venda podem ser alteradas ap&oacute;s o envio dessa mensagem. Confira sempre o pre&ccedil;o na p&aacute;gina do produto na loja antes de comprar. Caso haja diferen&ccedil;a de pre&ccedil;o ou descri&ccedil;&atilde;o do produto entre este e-mail e o do site, a condi&ccedil;&atilde;o v&aacute;lida e praticada ser&aacute; a do site. Pre&ccedil;os e condi&ccedil;&otilde;es v&aacute;lidos apenas em compras pelo site <a href="https://www.bagaggio.com.br/" target="_blank" rel="noopener noreferrer">www.bagaggio.com.br</a>.</p>
+</a>.</p>
 </td>
 </tr>
 </tbody>
